@@ -73,7 +73,7 @@ During this analysis, I sought to uncover valuable insights by addressing critic
 
 **This unified dashboard provided a holistic view of the data, enabling seamless exploration and immediate access to insights through interactive filters and dynamic visualizations. By integrating all answers into one place, stakeholders could easily uncover actionable insights to guide strategic decisions.**
 
-[You can interact wih the dashoard here](https://1drv.ms/x/c/ea7bfe9a359fa0e0/EfZT_7F5je9Bh2huFe_1cq8BtM4qeLzY7_be06OJe0iv3w?e=uw6Bb2) 😄
+[You can interact with the dashoard here](https://1drv.ms/x/c/ea7bfe9a359fa0e0/EfZT_7F5je9Bh2huFe_1cq8BtM4qeLzY7_be06OJe0iv3w?e=uw6Bb2) 😄
 
 ## Recommendations 
 **- Enrich Data with Additional Context:**
