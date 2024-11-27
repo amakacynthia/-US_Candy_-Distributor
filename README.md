@@ -1,6 +1,5 @@
 # US_Candy_Distributor
 
-![](https://github.com/amakacynthia/-US_Candy_-Distributor/blob/main/candy_dashboard.png)
 
 ![candy_factory_workers](https://github.com/user-attachments/assets/5df03a0c-0090-4918-9237-b921cdd262cf)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -8,7 +7,7 @@
 
 _Disclaimer_: _All datasets and reports do not represent any company, institution or country, but just a sample dataset to demonstrate capabilities of excel_
 
-## Problem statement/ EDA:
+## Explanatory Data Analysis (EDA):
 1. Which regions contribute the most to total sales?
 2. Who are the 5  top customers by sales value, and how frequently do they place orders?
 3. How does year-over-year sales growth vary by product?
